@@ -235,7 +235,7 @@ form {
 }
 
 .flex-kaart:nth-child(1) .flex-img {
-    background-image: url(images/card.jpg);
+    background-image: url(../images/card.jpg);
 }
 
 .flex-kaart:nth-child(2) .flex-img {
