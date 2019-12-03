@@ -235,19 +235,19 @@ form {
 }
 
 .flex-kaart:nth-child(1) .flex-img {
-    background-image: url(/images/card.jpg);
+    background-image: url(images/card.jpg);
 }
 
 .flex-kaart:nth-child(2) .flex-img {
-    background-image: url(/images/card-java.jpg);
+    background-image: url(images/card-java.jpg);
 }
 
 .flex-kaart:nth-child(3) .flex-img {
-    background-image: url(/images/card-sumatra.jpg);
+    background-image: url(images/card-sumatra.jpg);
 }
 
 .flex-kaart:nth-child(4) .flex-img {
-    background-image: url(/images/card-lake.jpg);
+    background-image: url(images/card-lake.jpg);
 }
 
 .header-text {
